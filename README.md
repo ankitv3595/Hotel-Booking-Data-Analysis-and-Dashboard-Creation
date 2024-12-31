@@ -1,9 +1,15 @@
 # Hospitality Dashboard - Analysis Of Hotel Booking Data
 
+
+![image](https://github.com/user-attachments/assets/8146e3b1-8cd2-4a33-9ae2-7c3fde79d0cf)
+![image](https://github.com/user-attachments/assets/9e1ec689-3de4-4368-a7a6-f5d3f7f1755a)
+
+
+
 ## Goal/Objective
 Develop a Database to analyze & visualize hotel booking data using Power BI to provide the answers for the below questions to the stakeholders.<br />
--- Is our hotel revenue growing by year?<br />
--- What trends we see in the data?
+- Is our hotel revenue growing by year?<br />
+- What trends we see in the data?
 
 
 ## Steps Follow to get the Insights
