@@ -20,9 +20,16 @@ f.	Summarize Findings
 
 ## Knowledge gain from this project
 
-•	Learnt how to create a database in SQL server using CSV files.<br />
-•	How to perform exploratory data analysis using SQL quires to get an overview of provided dataset.<br />
-•	Learnt how to connect the SQL server database with the Power BI.<br />
-•	Created a calculated columns & DAX measures.<br />
-•	How to add icons to enhance the visuals on the dashboards.<br />
-•	Used different charts along with key metrics, just to show the trend along with the metrics itself,
+•	Understanding the process of establishing a database on an SQL based server using comma separated values.<br \><br \>
+
+•	Employing SQL statements to get an understanding of the specified dataset through SQL quieries as the exploration stage of the data analysis process.<br \><br \>
+
+•	How to ensure the performance of a SQL server database along with the Power BI tool.<br \><br \>
+
+•	How to implement DAX measures and how to work with calculated columns.<br \><br \>
+
+•	How to embed images in the dashboards for further visual improvement.<br \><br \>
+
+•	Along with the metrics themselves, different key figures were also applied to a variety of charts, simply for the sake of repeating the trend along with the metrics.
+
+
