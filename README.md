@@ -20,15 +20,15 @@ f.	Summarize Findings
 
 ## Knowledge gain from this project
 
-•	Understanding the process of establishing a database on an SQL based server using comma separated values.<br \><br \>
+•	Understanding the process of establishing a database on an SQL based server using comma separated values.<br \>
 
-•	Employing SQL statements to get an understanding of the specified dataset through SQL quieries as the exploration stage of the data analysis process.<br \><br \>
+•	Employing SQL statements to get an understanding of the specified dataset through SQL quieries as the exploration stage of the data analysis process.<br \>
 
-•	How to ensure the performance of a SQL server database along with the Power BI tool.<br \><br \>
+•	How to ensure the performance of a SQL server database along with the Power BI tool.<br \>
 
-•	How to implement DAX measures and how to work with calculated columns.<br \><br \>
+•	How to implement DAX measures and how to work with calculated columns.<br \>
 
-•	How to embed images in the dashboards for further visual improvement.<br \><br \>
+•	How to embed images in the dashboards for further visual improvement.<br \>
 
 •	Along with the metrics themselves, different key figures were also applied to a variety of charts, simply for the sake of repeating the trend along with the metrics.
 
